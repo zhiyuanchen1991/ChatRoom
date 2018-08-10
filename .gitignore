@@ -1,0 +1,7 @@
+.idea
+.buildpath
+.project
+.settings
+vendor
+/Applications/Chat/node_modules
+/Applications/Chat/Web/dist
